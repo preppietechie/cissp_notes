@@ -1,14 +1,13 @@
 # cissp_notes
 Some last minute nodes I used in studying for the CISSP
-Fixed width font is better for viewing. I may clean the formatting up later for easier viewing on Github.
-
+Fixed width font is better for viewing. I may change the formatting to markdown someday for easier viewing. For now, just view the raw file.
 
 ISO 27001: Auditing
 ISO 27002: Best Practices (Formerly 17799)
 
 Simple Security Property = No Read Up
-'*' Property = No Write Down
-Strong * Property = no read up/no write down
+//* Property = No Write Down
+//Strong * Property = no read up/no write down
 Simple=Read *=Write (easier to read than write)
 
 Data Definition Language (DDL): Defines DB Schema
