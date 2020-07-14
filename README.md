@@ -1,5 +1,6 @@
 # cissp_notes
 Some last minute nodes I used in studying for the CISSP
+Fixed width formatting is better. I'll clean this up later.
 
 
 ISO 27001: Auditing
