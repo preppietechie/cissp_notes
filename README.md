@@ -6,7 +6,7 @@ ISO 27001: Auditing
 ISO 27002: Best Practices (Formerly 17799)
 
 Simple Security Property = No Read Up
-* Property = No Write Down
+'*' Property = No Write Down
 Strong * Property = no read up/no write down
 Simple=Read *=Write (easier to read than write)
 
