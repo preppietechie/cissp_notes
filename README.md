@@ -1,6 +1,6 @@
 # cissp_notes
 Some last minute nodes I used in studying for the CISSP
-Fixed width formatting is better. I'll clean this up later.
+Fixed width font is better for viewing. I may clean the formatting up later for easier viewing on Github.
 
 
 ISO 27001: Auditing
